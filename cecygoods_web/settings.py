@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'cecygoods',
+    'cecygoods_web.cecygoods',
 ]
 
 MIDDLEWARE = [

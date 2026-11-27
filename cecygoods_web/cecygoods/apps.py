@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class CecygoodsConfig(AppConfig):
-    name = 'cecygoods'
+    name = 'cecygoods_web.cecygoods'
